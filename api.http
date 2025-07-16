@@ -1,0 +1,13 @@
+### Create a new book
+POST http://localhost:3000/books
+Content-Type: application/json
+
+{
+    "title": "ahmadtesting",
+    "author": "Fzzzzz",
+    "desc": " the American Dream and the corruption of the 1920s.",
+    "price": 10.99
+}
+
+### Get all books
+GET http://localhost:3000/books
