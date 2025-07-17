@@ -1,4 +1,4 @@
-# Book Store API
+# Book Store
 
 A NestJS REST API for managing books with PostgreSQL database.
 
